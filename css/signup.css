@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(182, 182, 182);
+    background: rgb(0, 0, 0);
 
 }
 .row{
-    background: white;
+    background: rgb(240, 238, 238);
     border-radius: 30px;
 }
 img{

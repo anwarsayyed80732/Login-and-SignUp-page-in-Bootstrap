@@ -4,11 +4,13 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(182, 182, 182);
+    background: rgb(10, 10, 10);
+  
 }
 .row{
-    background: white;
-    border-radius: 30px;
+    background: rgb(255, 255, 255);
+    border-radius: 60px;
+    background-image: url("/img/login4.jpg");
 }
 img{
     border-top-left-radius:30px;
